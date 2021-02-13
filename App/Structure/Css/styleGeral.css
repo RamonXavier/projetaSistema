@@ -1,0 +1,20 @@
+#div_form{
+    background-color: rgba(206, 206, 206, 0.433);
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    overflow-y: auto;
+    height: 35%;
+    border-radius: 2%;
+}
+.div_center{
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    overflow-y: auto;
+    border-radius: 2%;
+}

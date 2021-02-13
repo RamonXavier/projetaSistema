@@ -1,7 +1,4 @@
 /App/*.php linguist-detectable=true 
 /App/*.js linguist-detectable=true 
 /App/*.html linguist-detectable=true 
-*.xml linguist-detectable=false
 /App/*.css linguist-detectable=true
-*.htm linguist-detectable=false
-/js/*.js linguist-detectable=false 

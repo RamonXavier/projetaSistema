@@ -2,3 +2,4 @@
 /App/Structure/Js/*.js linguist-detectable=true 
 /App/*.html linguist-detectable=true 
 /App/*.css linguist-detectable=true
+/App/*.js linguist-detectable=true
